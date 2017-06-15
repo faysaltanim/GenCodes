@@ -1,0 +1,4 @@
+solve Function Starts count: 0
+solve Function Starts count: 1
+solve Function Starts count: 2
+Ways: 0 and Minimum Lenth: 999999
